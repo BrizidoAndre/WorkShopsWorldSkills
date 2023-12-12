@@ -1,0 +1,15 @@
+C:\Users\abriz\Desktop\WorkShopsWorldSkills\Mod 09\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.exe.config
+C:\Users\abriz\Desktop\WorkShopsWorldSkills\Mod 09\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.exe
+C:\Users\abriz\Desktop\WorkShopsWorldSkills\Mod 09\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.pdb
+C:\Users\abriz\Desktop\WorkShopsWorldSkills\Mod 09\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\EntityFramework.dll
+C:\Users\abriz\Desktop\WorkShopsWorldSkills\Mod 09\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abriz\Desktop\WorkShopsWorldSkills\Mod 09\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\EntityFramework.xml
+C:\Users\abriz\Desktop\WorkShopsWorldSkills\Mod 09\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abriz\Desktop\WorkShopsWorldSkills\Mod 09\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\abriz\Desktop\WorkShopsWorldSkills\Mod 09\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.Form1.resources
+C:\Users\abriz\Desktop\WorkShopsWorldSkills\Mod 09\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.Properties.Resources.resources
+C:\Users\abriz\Desktop\WorkShopsWorldSkills\Mod 09\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csproj.GenerateResource.cache
+C:\Users\abriz\Desktop\WorkShopsWorldSkills\Mod 09\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\abriz\Desktop\WorkShopsWorldSkills\Mod 09\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csproj.CopyComplete
+C:\Users\abriz\Desktop\WorkShopsWorldSkills\Mod 09\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.exe
+C:\Users\abriz\Desktop\WorkShopsWorldSkills\Mod 09\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.pdb

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TesteModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Teste.dbo.Usuarios' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Usuarios">
+    <Key>
+      <PropertyRef Name="Id" />
+      <PropertyRef Name="Email" />
+      <PropertyRef Name="Senha" />
+      <PropertyRef Name="Apelido" />
+      <PropertyRef Name="Time" />
+      <PropertyRef Name="Cor" />
+      <PropertyRef Name="Nascimento" />
+      <PropertyRef Name="Foto" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Senha" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Apelido" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Time" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Cor" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Nascimento" Type="date" Nullable="false" />
+    <Property Name="Foto" Type="text" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="TesteModelStoreContainer">
+    <EntitySet Name="Usuarios" EntityType="Self.Usuarios" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+[Usuarios].[Id] AS [Id], 
+[Usuarios].[Email] AS [Email], 
+[Usuarios].[Senha] AS [Senha], 
+[Usuarios].[Apelido] AS [Apelido], 
+[Usuarios].[Time] AS [Time], 
+[Usuarios].[Cor] AS [Cor], 
+[Usuarios].[Nascimento] AS [Nascimento], 
+[Usuarios].[Foto] AS [Foto]
+FROM [dbo].[Usuarios] AS [Usuarios]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>
